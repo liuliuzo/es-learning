@@ -1,2 +1,2 @@
-# es-learning
-spring data and es client
+# ES(elasticsearch)-learning
+spring data and elasticsearch client
